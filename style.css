@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: black;
+}
+
+.foremost {
+    margin-top: 200px;
+    margin-bottom: 100px;
+    padding-top: 100px;
+    padding-bottom: 350px;
+    font-family: 'Tahoma';
+    color: white;
+    background-image: url("Spartan-Locke.png");
+    background-position: center top;
+}
+
+hr{
+    margin-top: 200px;
+    margin-bottom: 30px; 
+}
+.btn-primary{
+    padding: 5px 20px 5px 20px;
+    background-color: red;
+    border-color: red;
+    font-family: Arial;
+    border-radius: 0.8em;
+}
